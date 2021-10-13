@@ -1,5 +1,7 @@
 # Build the test projects
-- name: 'gcr.io/$PROJECT_ID/dotnet'
+steps:
+- name: 'mcr.microsoft.com/dotnet/core/sdk:2.1'
+  entrypoint: 'dotnet'
   args: ['build']
   dir: 'aimaps/aimaps_cli/linux-x64/Gsqa.Tools.AiMaps.Console.dll'
 

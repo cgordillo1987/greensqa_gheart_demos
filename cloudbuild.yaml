@@ -1,4 +1,16 @@
+# Cloud builder for the dotnet builder.
+
 steps:
-- name: 'ubuntu'
-  args: ['dotnet','Gsqa.Tools.AiMaps.Console.dll']
-  dir: 'aimaps/aimaps_cli/linux-x64'
+- name: 'gcr.io/cloud-builders/docker'
+  args:
+  - 'build'
+  - '--tag=gcr.io/$PROJECT_ID/dotnet'
+  - '.'
+
+# Build the test projects
+- name: 'gcr.io/$PROJECT_ID/dotnet'
+  args: ['build']
+  dir: 'aimaps/aimaps_cli/linux-x64/Gsqa.Tools.AiMaps.Console.dll'
+
+images:
+- 'gcr.io/$PROJECT_ID/dotnet'

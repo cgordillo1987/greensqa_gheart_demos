@@ -1,3 +1,3 @@
 steps:
 - name: 'ubuntu'
-  args: ['cd aimaps', 'cd aimaps_cli', 'ls']
+  args: ['echo', '$PATH']

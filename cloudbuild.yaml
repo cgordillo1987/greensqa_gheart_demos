@@ -1,6 +1,6 @@
 # Build the test projects
 steps:
 - name: mcr.microsoft.com/dotnet/core/sdk:2.1
-  args: [dotnet, aimaps/aimaps_cli/linux-x64/Gsqa.Tools.AiMaps.Console.dll src='maps/nuevaEPs/NuevaEPS.aiml']
+  args: [dotnet, aimaps/aimaps_cli/linux-x64/Gsqa.Tools.AiMaps.Console.dll src="maps/nuevaEPs/NuevaEPS.aiml"]
 
 

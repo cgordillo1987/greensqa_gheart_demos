@@ -8,7 +8,7 @@ steps:
   - |
     chmod 777 aimaps/aimaps_cli/linux-x64/* \
     && chmod 777 aimaps/aimaps_cli/linux-x64/Selenium/chromedriver \
-    && apt-get update -y \
-    && apt-get install -y libegl-mesa0 \    
-    && dotnet aimaps/aimaps_cli/linux-x64/Gsqa.Tools.AiMaps.Console.dll src=maps/nuevaeps/NuevaEPS.aiml
+    #&& apt-get update -y \
+    #&& apt-get install -y libegl-mesa0 \    
+    && dotnet aimaps/aimaps_cli/linux-x64/Gsqa.Tools.AiMaps.Console.dll src=maps/nuevaeps/funcionaltest.aiml
     

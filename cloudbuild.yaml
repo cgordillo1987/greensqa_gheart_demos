@@ -1,13 +1,14 @@
 # Build the test projects
 steps:
-- name: 'ubuntu'
+- name: 'windows'
   entrypoint: 'bash'
   #args: ['bash', '-c', 'chmod 777 aimaps/aimaps_cli/linux-x64/Gsqa.Tools.AiMaps.Console.dll && chmod 777 aimaps/aimaps_cli/linux-x64/Selenium/chromedriver && dotnet aimaps/aimaps_cli/linux-x64/Gsqa.Tools.AiMaps.Console.dll src=maps/nuevaeps/NuevaEPS.aiml']
   args:
   - '-c'
   - |
-    chmod 777 aimaps/aimaps_cli/linux-x64/Gsqa.Tools.AiMaps.Console.dll \
-    && chmod 777 aimaps/aimaps_cli/linux-x64/Selenium/chromedriver \
-    && cat /etc/os-release
-    ##&& dotnet aimaps/aimaps_cli/linux-x64/Gsqa.Tools.AiMaps.Console.dll src=maps/nuevaeps/NuevaEPS.aiml
+    ls
+    #chmod 777 aimaps/aimaps_cli/linux-x64/Gsqa.Tools.AiMaps.Console.dll \
+    #&& chmod 777 aimaps/aimaps_cli/linux-x64/Selenium/chromedriver \
+    #&& cat /etc/os-release
+    #&& dotnet aimaps/aimaps_cli/linux-x64/Gsqa.Tools.AiMaps.Console.dll src=maps/nuevaeps/NuevaEPS.aiml
     

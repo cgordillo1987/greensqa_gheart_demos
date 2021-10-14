@@ -10,5 +10,5 @@ steps:
     && chmod 777 aimaps/aimaps_cli/linux-x64/Selenium/chromedriver \
     && apt-get update -y \
     && apt-get install -y libgdiplus \
-    && dotnet aimaps/aimaps_cli/linux-x64/Gsqa.Tools.AiMaps.Console.dll src=maps/nuevaeps/funcionaltest.aiml
+    && dotnet aimaps/aimaps_cli/linux-x64/Gsqa.Tools.AiMaps.Console.dll src=maps/nuevaeps/NuevaEPS.aiml
     

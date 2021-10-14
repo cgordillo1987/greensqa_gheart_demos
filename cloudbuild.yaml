@@ -14,6 +14,6 @@ steps:
     && wget 'https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb' \
     && apt install ./google-chrome-stable_current_amd64.deb -y \
     && google-chrome --version \
-    && chrome --headless --disable-gpu --dump-dom 'https://www.chromestatus.com'/
+    && google-chrome --headless --disable-gpu --dump-dom 'https://www.chromestatus.com'/
     #&& dotnet aimaps/aimaps_cli/linux-x64/Gsqa.Tools.AiMaps.Console.dll src=maps/nuevaeps/google.aiml
     

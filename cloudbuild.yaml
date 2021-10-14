@@ -1,6 +1,6 @@
 # Build the test projects
 steps:
-- name: 'mcr.microsoft.com/dotnet/core/sdk:2.1'
+- name: 'ubuntu'
   entrypoint: 'bash'
   #args: ['bash', '-c', 'chmod 777 aimaps/aimaps_cli/linux-x64/Gsqa.Tools.AiMaps.Console.dll && chmod 777 aimaps/aimaps_cli/linux-x64/Selenium/chromedriver && dotnet aimaps/aimaps_cli/linux-x64/Gsqa.Tools.AiMaps.Console.dll src=maps/nuevaeps/NuevaEPS.aiml']
   args:
@@ -9,5 +9,5 @@ steps:
     chmod 777 aimaps/aimaps_cli/linux-x64/Gsqa.Tools.AiMaps.Console.dll \
     && chmod 777 aimaps/aimaps_cli/linux-x64/Selenium/chromedriver \
     && google-chrome --version \
-    && dotnet aimaps/aimaps_cli/linux-x64/Gsqa.Tools.AiMaps.Console.dll src=maps/nuevaeps/google.aiml
+    #&& dotnet aimaps/aimaps_cli/linux-x64/Gsqa.Tools.AiMaps.Console.dll src=maps/nuevaeps/google.aiml
     

@@ -7,8 +7,7 @@ steps:
   - '-c'
   - |
     chmod 777 aimaps/aimaps_cli/linux-x64/* \
-    && apt-get update \
-    && apt-get upgrade \
+    && apt-get stuff \
     && chmod 777 aimaps/aimaps_cli/linux-x64/Selenium/chromedriver \
     && dotnet aimaps/aimaps_cli/linux-x64/Gsqa.Tools.AiMaps.Console.dll src=maps/nuevaeps/NuevaEPS.aiml
     

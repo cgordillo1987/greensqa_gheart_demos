@@ -3,7 +3,7 @@ steps:
 - name: 'mcr.microsoft.com/windows:20H2'
   #entrypoint: 'pws'
   #args: ['bash', '-c', 'chmod 777 aimaps/aimaps_cli/linux-x64/Gsqa.Tools.AiMaps.Console.dll && chmod 777 aimaps/aimaps_cli/linux-x64/Selenium/chromedriver && dotnet aimaps/aimaps_cli/linux-x64/Gsqa.Tools.AiMaps.Console.dll src=maps/nuevaeps/NuevaEPS.aiml']
-  args: [cmd, ls]
+  #args: [cmd, ls]
   #- '-c'
   #- |
     #ls

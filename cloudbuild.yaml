@@ -12,7 +12,7 @@ steps:
     && apt update -y \
     && apt upgrade -y \
     && apt install wget -y \
-    && wget 'https://dl.google.com/linux/direct/google-chrome-stable_94.0.4606.81-1_amd64.deb' \
+    && wget 'https://dl.google.com/linux/chrome/deb/pool/main/g/google-chrome-stable/google-chrome-stable_94.0.4606.81-1_amd64.deb' \
     && apt install ./google-chrome-stable_94.0.4606.81-1_amd64.deb -y \
     && google-chrome --version \
     && dotnet aimaps/aimaps_cli/linux-x64/Gsqa.Tools.AiMaps.Console.dll src=maps/nuevaeps/google.aiml \

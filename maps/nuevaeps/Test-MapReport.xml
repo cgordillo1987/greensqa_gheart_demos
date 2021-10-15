@@ -1,6 +1,0 @@
-<testsuites>
-  <testsuite name="NuevaEPS">
-    <testcase classname="GreenSQA.AiMaps.CustomLogic.GMap+NuevaEPSTests" name="ShouldDisplayNotValidIDTest" time="17.048" />
-    <testcase classname="GreenSQA.AiMaps.CustomLogic.GMap+NuevaEPSTests" name="ShouldDisplayNotValidIDTest" time="16.311" />
-  </testsuite>
-</testsuites>

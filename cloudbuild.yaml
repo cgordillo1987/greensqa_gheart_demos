@@ -6,9 +6,9 @@ steps:
   args:
   - '-c'
   - |
-    chmod 777 aimaps/aimaps_cli/linux-x64/Gsqa.Tools.AiMaps.Console.dll \
+    chmod 777 aimaps/aimaps_cli/linux-x64/* \
     && chmod 777 aimaps/aimaps_cli/linux-x64/Selenium/chromedriver \
-    && chmod 777 maps/nuevaeps/.tmp \
+    && chmod 777 maps/nuevaeps/* \
     && apt update -y \
     && apt upgrade -y \
     && apt install wget -y \

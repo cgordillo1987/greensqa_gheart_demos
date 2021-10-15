@@ -8,7 +8,6 @@ steps:
   - |
     chmod 777 aimaps/aimaps_cli/linux-x64/* \
     && chmod 777 aimaps/aimaps_cli/linux-x64/Selenium/chromedriver \
-    && chmod 777 maps/nuevaeps/* \
     && apt update -y \
     && apt upgrade -y \
     && apt install wget -y \
@@ -16,7 +15,4 @@ steps:
     && apt install ./google-chrome-stable_94.0.4606.81-1_amd64.deb -y \
     && google-chrome --version \
     && apt-get install -y libgdiplus \
-    && dotnet aimaps/aimaps_cli/linux-x64/Gsqa.Tools.AiMaps.Console.dll src=maps/nuevaeps/google.aiml \
-    && cd maps/nuevaeps/.tmp/ \
-    && ls
-    
+    && dotnet aimaps/aimaps_cli/linux-x64/Gsqa.Tools.AiMaps.Console.dll src=maps/google/google.aiml

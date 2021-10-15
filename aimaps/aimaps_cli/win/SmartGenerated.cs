@@ -615,27 +615,28 @@ private void SetupFuncMonitor()
   InitFunc();
   
   //Setup the project plan data
-  Func.ProjectInfo.CustomerId         = StepValStr("NuevaEPSTests>CustomerId");
-  Func.ProjectInfo.CustomerName       = StepValStr("NuevaEPSTests>CustomerName");
-  Func.ProjectInfo.ProjectId          = StepValStr("NuevaEPSTests>ProjectId");
-  Func.ProjectInfo.ProjectName        = StepValStr("NuevaEPSTests>ProjectName");
-  Func.ProjectInfo.IterationId        = StepValStr("NuevaEPSTests>IterationId");
-  Func.ProjectInfo.TestCaseId         = StepValStr("NuevaEPSTests>TestCaseId"); 
-  Func.ProjectInfo.ApplicationVersion = StepValStr("NuevaEPSTests>ApplicationVersion");
+  Func.ProjectInfo.CustomerId         = StepValStr("Monitor>CustomerId");
+  Func.ProjectInfo.CustomerName       = StepValStr("Monitor>CustomerName");
+  Func.ProjectInfo.ProjectId          = StepValStr("Monitor>ProjectId");
+  Func.ProjectInfo.ProjectName        = StepValStr("Monitor>ProjectName");
+  Func.ProjectInfo.IterationId        = StepValStr("Monitor>IterationId");
+  Func.ProjectInfo.TestCaseId         = StepValStr("Monitor>TestCaseId"); 
+  Func.ProjectInfo.ApplicationVersion = StepValStr("Monitor>ApplicationVersion");
   Func.ProjectInfo.TechnologyApp      = "Web"; //Change this with the proper value
   
   //Setup the project details
   Func.ProjectInfo.GsqaService           = GsqaService.ATM; //TIA;ATM;Services
-  Func.ProjectInfo.HumanRelationRate     = StepValDouble("NuevaEPSTests>HumanRelationRate"); 
+  Func.ProjectInfo.BotName               = StepValStr("Monitor>BotName").ToUpper();
+  Func.ProjectInfo.HumanRelationRate     = StepValDouble("Monitor>HumanRelationRate"); 
   Func.ProjectInfo.DeploymentEnvironment = DevEnvironment.QA; //DEV;QA;STG;PRD
-  Func.ProjectInfo.IsGreenHeartPrdMode   = StepValBool("NuevaEPSTests>IsGreenHeartPrdMode");
+  Func.ProjectInfo.IsGreenHeartPrdMode   = StepValBool("Monitor>IsGreenHeartPrdMode");
   
   ResetStartTime();
 }
 
 
 
-public class Home : IController
+public class Navegar : IController
 {
   AiModel thisModel = null;
   GreenSQA.AiMaps.CustomLogic.SmartMap k;
@@ -661,7 +662,7 @@ public class Home : IController
 
   public string LocatorString { get; set; }
 
-  public Home(object currentModel, string stageName)
+  public Navegar(object currentModel, string stageName)
   {
     thisModel = (currentModel as AiModel);
     thisModel.GetStage(stageName).LogicInstance = this;
@@ -671,7 +672,7 @@ public class Home : IController
     }
   }
 
-  //USER_CODE_LOGIC:STAGE_Home
+  //USER_CODE_LOGIC:STAGE_Navegar
 
   
 //RunAt:Desktop
@@ -683,7 +684,7 @@ bool IController.Execute()
 }
 
 
-public class NewAppointmentForm : IController
+public class Monitor : IController
 {
   AiModel thisModel = null;
   GreenSQA.AiMaps.CustomLogic.SmartMap k;
@@ -709,7 +710,7 @@ public class NewAppointmentForm : IController
 
   public string LocatorString { get; set; }
 
-  public NewAppointmentForm(object currentModel, string stageName)
+  public Monitor(object currentModel, string stageName)
   {
     thisModel = (currentModel as AiModel);
     thisModel.GetStage(stageName).LogicInstance = this;
@@ -719,302 +720,29 @@ public class NewAppointmentForm : IController
     }
   }
 
-  //USER_CODE_LOGIC:STAGE_NewAppointmentForm
-
-  
-//RunAt:Desktop
-bool IController.Execute()
-{
-  return true;
-}
-  
-}
-
-
-public class TermsAndConditions : IController
-{
-  AiModel thisModel = null;
-  GreenSQA.AiMaps.CustomLogic.SmartMap k;
-
-  System.Collections.Generic.List<string> resultList = null;
-  public System.Collections.Generic.List<string> ResultList
-  {
-    get { return resultList; }
-    set { resultList = value; }
-  }
-
-  string locationData = string.Empty;
-  public string LocationData
-  {
-    get { return locationData; }
-    set { locationData = value; }
-  }
-
-  //TODO: OCR not implemented yet
-  //public OcrResult OcrResult { get; set; }
-
-  public OpenQA.Selenium.IWebDriver SeDriver { get; set; }
-
-  public string LocatorString { get; set; }
-
-  public TermsAndConditions(object currentModel, string stageName)
-  {
-    thisModel = (currentModel as AiModel);
-    thisModel.GetStage(stageName).LogicInstance = this;
-    if (thisModel.GlobalLogicInstance != null)
-    {
-      k = (GreenSQA.AiMaps.CustomLogic.SmartMap)thisModel.GlobalLogicInstance;
-    }
-  }
-
-  //USER_CODE_LOGIC:STAGE_TermsAndConditions
-
-  
-//RunAt:Desktop
-bool IController.Execute()
-{
-  return true;
-}
-  
-}
-
-
-public class TypeOfUser : IController
-{
-  AiModel thisModel = null;
-  GreenSQA.AiMaps.CustomLogic.SmartMap k;
-
-  System.Collections.Generic.List<string> resultList = null;
-  public System.Collections.Generic.List<string> ResultList
-  {
-    get { return resultList; }
-    set { resultList = value; }
-  }
-
-  string locationData = string.Empty;
-  public string LocationData
-  {
-    get { return locationData; }
-    set { locationData = value; }
-  }
-
-  //TODO: OCR not implemented yet
-  //public OcrResult OcrResult { get; set; }
-
-  public OpenQA.Selenium.IWebDriver SeDriver { get; set; }
-
-  public string LocatorString { get; set; }
-
-  public TypeOfUser(object currentModel, string stageName)
-  {
-    thisModel = (currentModel as AiModel);
-    thisModel.GetStage(stageName).LogicInstance = this;
-    if (thisModel.GlobalLogicInstance != null)
-    {
-      k = (GreenSQA.AiMaps.CustomLogic.SmartMap)thisModel.GlobalLogicInstance;
-    }
-  }
-
-  //USER_CODE_LOGIC:STAGE_TypeOfUser
-
-  
-//RunAt:Desktop
-bool IController.Execute()
-{
-  return true;
-}
-  
-}
-
-
-public class NUFormCaptcha : IController
-{
-  AiModel thisModel = null;
-  GreenSQA.AiMaps.CustomLogic.SmartMap k;
-
-  System.Collections.Generic.List<string> resultList = null;
-  public System.Collections.Generic.List<string> ResultList
-  {
-    get { return resultList; }
-    set { resultList = value; }
-  }
-
-  string locationData = string.Empty;
-  public string LocationData
-  {
-    get { return locationData; }
-    set { locationData = value; }
-  }
-
-  //TODO: OCR not implemented yet
-  //public OcrResult OcrResult { get; set; }
-
-  public OpenQA.Selenium.IWebDriver SeDriver { get; set; }
-
-  public string LocatorString { get; set; }
-
-  public NUFormCaptcha(object currentModel, string stageName)
-  {
-    thisModel = (currentModel as AiModel);
-    thisModel.GetStage(stageName).LogicInstance = this;
-    if (thisModel.GlobalLogicInstance != null)
-    {
-      k = (GreenSQA.AiMaps.CustomLogic.SmartMap)thisModel.GlobalLogicInstance;
-    }
-  }
-
-  //USER_CODE_LOGIC:STAGE_NUFormCaptcha
-
-  
-//RunAt:Desktop
-bool IController.Execute()
-{
-  return true;
-}
-  
-}
-
-
-public class NewUserForm : IController
-{
-  AiModel thisModel = null;
-  GreenSQA.AiMaps.CustomLogic.SmartMap k;
-
-  System.Collections.Generic.List<string> resultList = null;
-  public System.Collections.Generic.List<string> ResultList
-  {
-    get { return resultList; }
-    set { resultList = value; }
-  }
-
-  string locationData = string.Empty;
-  public string LocationData
-  {
-    get { return locationData; }
-    set { locationData = value; }
-  }
-
-  //TODO: OCR not implemented yet
-  //public OcrResult OcrResult { get; set; }
-
-  public OpenQA.Selenium.IWebDriver SeDriver { get; set; }
-
-  public string LocatorString { get; set; }
-
-  public NewUserForm(object currentModel, string stageName)
-  {
-    thisModel = (currentModel as AiModel);
-    thisModel.GetStage(stageName).LogicInstance = this;
-    if (thisModel.GlobalLogicInstance != null)
-    {
-      k = (GreenSQA.AiMaps.CustomLogic.SmartMap)thisModel.GlobalLogicInstance;
-    }
-  }
-
-  //USER_CODE_LOGIC:STAGE_NewUserForm
-
-  
-//RunAt:Desktop
-bool IController.Execute()
-{
-  return true;
-}
-  
-}
-
-
-public class NuevaEPSTests : IController
-{
-  AiModel thisModel = null;
-  GreenSQA.AiMaps.CustomLogic.SmartMap k;
-
-  System.Collections.Generic.List<string> resultList = null;
-  public System.Collections.Generic.List<string> ResultList
-  {
-    get { return resultList; }
-    set { resultList = value; }
-  }
-
-  string locationData = string.Empty;
-  public string LocationData
-  {
-    get { return locationData; }
-    set { locationData = value; }
-  }
-
-  //TODO: OCR not implemented yet
-  //public OcrResult OcrResult { get; set; }
-
-  public OpenQA.Selenium.IWebDriver SeDriver { get; set; }
-
-  public string LocatorString { get; set; }
-
-  public NuevaEPSTests(object currentModel, string stageName)
-  {
-    thisModel = (currentModel as AiModel);
-    thisModel.GetStage(stageName).LogicInstance = this;
-    if (thisModel.GlobalLogicInstance != null)
-    {
-      k = (GreenSQA.AiMaps.CustomLogic.SmartMap)thisModel.GlobalLogicInstance;
-    }
-  }
-
-  //USER_CODE_LOGIC:STAGE_NuevaEPSTests
+  //USER_CODE_LOGIC:STAGE_Monitor
 
   //RunAt:Desktop
 bool IController.Execute()
 {
-   k.SetupFuncMonitor();
-  
-  //Run tests
-  k.TestSuiteName = "NuevaEPS";
-  k.RunTest(ShouldDisplayNotValidIDTest,BeforeLogic,AfterLogic);
-  //Invoke more testcases here
+  try
+  {
+    k.SetupFuncMonitor();
+    k.TFunc(DoWork, 1000, 2000, sendLog:true);
+  }
+  catch (Exception ex)
+  {
+    //Cleanup resources, kill drivers, etc.
+  }
   
   return true;
 }
 
-//uncomment next line to send test results to monitor
-[MetricsInfo(ExcellentTime = 30000,  ToleratingTime = 35000)]
-private void ShouldDisplayNotValidIDTest()
+private void DoWork()
 {
-  //Arrance
-  string expectedMessage = "Tipo y número de identificación no válidos";
-  
-  //Act
-  k.Run("NewAppointmentForm", true);
-  k.Run("TermsAndConditions", true);
-  k.Run("TypeOfUser", true);
-  k.Run("NUFormCaptcha>SetJavaScriptContent");
-  k.Run("NUFormCaptcha>LoadJs");
-  k.Run("NUFormCaptcha>WaitSolution");
-  k.Run("NUFormCaptcha>ProcessImage");
-  k.Run("NUFormCaptcha>GetImage64");
-  k.Run("NUFormCaptcha>invokeCaptchaService");
-  k.Run("NUFormCaptcha>ExtractId");
-  k.SetVal("NUFormCaptcha>Token", "CAPCHA_NOT_READY");
-  while(k.StepVal("NUFormCaptcha>Token")=="CAPCHA_NOT_READY" )
-  {
-    k.Run("NUFormCaptcha>GetTokenResponce");
-    k.Run("NUFormCaptcha>WaitSolution");
-    k.Run("NUFormCaptcha>ExtractToken");
-  } 
-  k.Run("NUFormCaptcha>SetTextToken");
-  k.Run("NewUserForm",true);
-  //Assert
-  string actualMessage = k.StepValStr("NewUserForm>GetErrorMassage");
-  expectedMessage.Should().Be(actualMessage);
+  //Implement robot logic here
+  k.Run("Navegar", true);
 
-}
-
-private void BeforeLogic()
-{
-    k.Run("Home", true);
-}
-
-private void AfterLogic()
-{
-  k.Run("CleanUP>Kill");
 }
 
   

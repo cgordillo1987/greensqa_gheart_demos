@@ -15,4 +15,4 @@ steps:
     && apt install ./google-chrome-stable_94.0.4606.81-1_amd64.deb -y \
     && google-chrome --version \
     && apt-get install -y libgdiplus \
-    && dotnet aimaps/aimaps_cli/linux-x64/Gsqa.Tools.AiMaps.Console.dll src='maps/Robot Finaktiva/OrquestadorMain.aiml'
+    && dotnet aimaps/aimaps_cli/linux-x64/Gsqa.Tools.AiMaps.Console.dll src='maps/google/google.aiml'

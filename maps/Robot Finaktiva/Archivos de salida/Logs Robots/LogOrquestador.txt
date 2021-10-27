@@ -1,0 +1,24 @@
+Ejecucion del flujo NOK - Se ha producido un error en uno o más flujos
+Error (InvocarMapaRegistro).(InvocarMapa).CallExternalMap()  -- Could not find a part of the path 'C:\child\Registro\Registro.aiml'. 
+Ejecucion del flujo NOK - Se ha producido un error en uno o más flujos
+Error (InvocarMapaRegistro).(InvocarMapa).CallExternalMap()  -- Could not find a part of the path 'C:\child\Registro\Registro.aiml'. 
+Ejecucion del flujo NOK - Se ha producido un error en uno o más flujos
+Error (InvocarMapaLogin).(InvocarMapa).CallExternalMap()  -- Could not find a part of the path 'C:\child\Login\Social_Login.aiml'. 
+Ejecucion del flujo NOK - Se ha producido un error en uno o más flujos
+Error (InvocarMapaLogin).(InvocarMapa).CallExternalMap()  -- Could not find a part of the path 'C:\child\Login\Social_Login.aiml'. 
+Ejecucion del flujo NOK - Se ha producido un error en uno o más flujos
+Error (InvocarMapaLogin).(InvocarMapa).CallExternalMap()  -- Could not find a part of the path 'C:\child\Login\Social_Login.aiml'. 
+Ejecucion del flujo NOK - Se ha producido un error en uno o más flujos
+Error (InvocarMapaLogin).(InvocarMapa).CallExternalMap()  -- No se encontró el elemento de verificación de inicio sesión con el selector parametrizado, verifique estabilidad del ambiente o cambios en la aplicación 
+Ejecucion del flujo NOK - Se ha producido un error en uno o más flujos
+Error (InvocarMapaLogin).(InvocarMapa).CallExternalMap()  -- Could not find a part of the path 'C:\Robot social GSQA\Finaktiva\Robot Finaktiva\[Main.RutaEvidencia]\child\Login\Social_Login.aiml'. 
+Ejecucion del flujo NOK - Se ha producido un error en uno o más flujos
+Error (InvocarMapaLogin).(InvocarMapa).CallExternalMap()  -- Could not find a part of the path 'C:\child\Login\Social_Login.aiml'. 
+Ejecucion del flujo NOK - Se ha producido un error en uno o más flujos
+Error (InvocarMapaLogin).(InvocarMapa).CallExternalMap()  -- No se encontró el elemento de verificación de inicio sesión con el selector parametrizado, verifique estabilidad del ambiente o cambios en la aplicación 
+Ejecucion del flujo NOK - Se ha producido un error en uno o más flujos
+Error (InvocarMapaLogin).(InvocarMapa).CallExternalMap()  -- No se encontró el elemento de verificación de inicio sesión con el selector parametrizado, verifique estabilidad del ambiente o cambios en la aplicación 
+Ejecucion del flujo NOK - Se ha producido un error en uno o más flujos
+Error (InvocarMapaLogin).(InvocarMapa).CallExternalMap()  -- No se encontró el elemento de verificación de inicio sesión con el selector parametrizado, verifique estabilidad del ambiente o cambios en la aplicación 
+Ejecucion del flujo NOK - Se ha producido un error en uno o más flujos
+Error (InvocarMapaLogin).(InvocarMapa).CallExternalMap()  -- No se encontró el elemento de verificación de inicio sesión con el selector parametrizado, verifique estabilidad del ambiente o cambios en la aplicación 

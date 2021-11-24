@@ -20,3 +20,69 @@ Nombre Empresa: greenatm6872
 Correo del usuario: greenatm6872@mailinator.com
 Contraseña: greenatm6872@mailinator.com
 
+Inicio Robot Solicitud 24/11/2021 4:43:13 p. m.
+Caso de prueba: representante igual al usuario
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso al menú de creditos - solicita tu producto aquí OK 24/11/2021 4:43:15 p. m.
+Vinculación finalizada OK 24/11/2021 4:43:24 p. m.
+Solicitud Crédito Paso 1 OK 24/11/2021 4:43:34 p. m.
+Solicitud Crédito Paso 2 OK 24/11/2021 4:43:40 p. m.
+Solicitud Crédito Paso 3 OK 24/11/2021 4:43:47 p. m.
+Solicitud Crédito Paso 4 OK 24/11/2021 4:43:51 p. m.
+
+24/11/2021 4:44:11 p. m. Se identificaron cambios o inestabilidad en los componentes del formulario/paso 5 con los selectores parametrizados, verifique estabilidad del ambiente o cambios en la aplicación.
+ 
+24/11/2021 4:44:11 p. m. Se ha identificado un hallazgo en el caso de prueba: Representante igual al usuario que ingresa los mismos datos del usuario para el representante legal, en la aplicación web Social en el flujo Solicitud de crédito. 
+Hallazgo técnico: No se encontró el img del collapse en la sección 'Documentos de tu empresa' en la pantalla 'Paso/Formulario 5' con el selector parametrizado, verifique estabilidad del ambiente o cambios en la aplicación
+Datos de Usuario Utilizado: 
+Nit: 888913683
+Nombre Empresa: greenatm6588
+Correo del usuario: greenatm6588@mailinator.com
+Contraseña: greenatm6588@mailinator.com
+
+Inicio Robot Solicitud 24/11/2021 4:51:51 p. m.
+Caso de prueba: representante igual al usuario
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso al menú de creditos - solicita tu producto aquí OK 24/11/2021 4:51:54 p. m.
+Vinculación finalizada OK 24/11/2021 4:52:03 p. m.
+Solicitud Crédito Paso 1 OK 24/11/2021 4:52:13 p. m.
+Solicitud Crédito Paso 2 OK 24/11/2021 4:52:19 p. m.
+Solicitud Crédito Paso 3 OK 24/11/2021 4:52:25 p. m.
+Solicitud Crédito Paso 4 OK 24/11/2021 4:52:29 p. m.
+
+24/11/2021 4:52:44 p. m. Se identificaron cambios o inestabilidad en los componentes del formulario/paso 5 con los selectores parametrizados, verifique estabilidad del ambiente o cambios en la aplicación.
+ 
+24/11/2021 4:52:44 p. m. Se ha identificado un hallazgo en el caso de prueba: Representante igual al usuario que ingresa los mismos datos del usuario para el representante legal, en la aplicación web Social en el flujo Solicitud de crédito. 
+Hallazgo técnico: No se encontró el img del collapse en la sección 'Documentos de tu empresa' en la pantalla 'Paso/Formulario 5' con el selector parametrizado, verifique estabilidad del ambiente o cambios en la aplicación
+Datos de Usuario Utilizado: 
+Nit: 587693969
+Nombre Empresa: greenatm4679
+Correo del usuario: greenatm4679@mailinator.com
+Contraseña: greenatm4679@mailinator.com
+
+Inicio Robot Solicitud 24/11/2021 4:57:01 p. m.
+Caso de prueba: representante igual al usuario
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso al menú de creditos - solicita tu producto aquí OK 24/11/2021 4:57:03 p. m.
+Vinculación finalizada OK 24/11/2021 4:57:13 p. m.
+Solicitud Crédito Paso 1 OK 24/11/2021 4:57:23 p. m.
+Solicitud Crédito Paso 2 OK 24/11/2021 4:57:29 p. m.
+Solicitud Crédito Paso 3 OK 24/11/2021 4:57:36 p. m.
+Solicitud Crédito Paso 4 OK 24/11/2021 4:57:41 p. m.
+
+24/11/2021 4:58:12 p. m. Se identificaron cambios o inestabilidad en los componentes del formulario/paso 5 con los selectores parametrizados, verifique estabilidad del ambiente o cambios en la aplicación.
+ 
+24/11/2021 4:58:12 p. m. Se ha identificado un hallazgo en el caso de prueba: Representante igual al usuario que ingresa los mismos datos del usuario para el representante legal, en la aplicación web Social en el flujo Solicitud de crédito. 
+Hallazgo técnico: No se encontró el span con el texto '100%' en la  seccion 'Documentos de tu empresa' en la pantalla 'Paso/Formulario 5' con el selector parametrizado, verifique estabilidad del ambiente o cambios en la aplicación
+Datos de Usuario Utilizado: 
+Nit: 360679733
+Nombre Empresa: greenatm2416
+Correo del usuario: greenatm2416@mailinator.com
+Contraseña: greenatm2416@mailinator.com
+

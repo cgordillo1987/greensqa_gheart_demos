@@ -118,3 +118,83 @@ Nit: 710704390
 Correo: greenatm7754@mailinator.com
 Contraseña: pruebasatm123*
 
+Inicio Robot Registro 24/11/2021 4:42:30 p. m.
+Caso de prueba: datos validos
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Formulario 1 OK 24/11/2021 4:42:36 p. m.
+Formulario 2 OK 24/11/2021 4:42:36 p. m.
+Formulario 3 OK 24/11/2021 4:42:37 p. m.
+Formulario 4 OK 24/11/2021 4:42:38 p. m.
+Formulario 5 OK 24/11/2021 4:42:47 p. m.
+Mensaje de registro exitoso OK 24/11/2021 4:42:52 p. m.
+Verificación por correo  OK 24/11/2021 4:43:07 p. m.
+Caso de prueba Registro OK 24/11/2021 4:43:07 p. m.
+
+Usuario registrado 
+Nombre usuario: greenatm6588
+Nit: 888913683
+Correo: greenatm6588@mailinator.com
+Contraseña: pruebasatm123*
+
+Inicio Robot Registro 24/11/2021 4:51:11 p. m.
+Caso de prueba: datos validos
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Formulario 1 OK 24/11/2021 4:51:17 p. m.
+Formulario 2 OK 24/11/2021 4:51:17 p. m.
+Formulario 3 OK 24/11/2021 4:51:18 p. m.
+Formulario 4 OK 24/11/2021 4:51:18 p. m.
+Formulario 5 OK 24/11/2021 4:51:28 p. m.
+Mensaje de registro exitoso OK 24/11/2021 4:51:31 p. m.
+Verificación por correo  OK 24/11/2021 4:51:45 p. m.
+Caso de prueba Registro OK 24/11/2021 4:51:45 p. m.
+
+Usuario registrado 
+Nombre usuario: greenatm4679
+Nit: 587693969
+Correo: greenatm4679@mailinator.com
+Contraseña: pruebasatm123*
+
+Inicio Robot Registro 24/11/2021 4:56:21 p. m.
+Caso de prueba: datos validos
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Formulario 1 OK 24/11/2021 4:56:24 p. m.
+Formulario 2 OK 24/11/2021 4:56:25 p. m.
+Formulario 3 OK 24/11/2021 4:56:26 p. m.
+Formulario 4 OK 24/11/2021 4:56:26 p. m.
+Formulario 5 OK 24/11/2021 4:56:36 p. m.
+Mensaje de registro exitoso OK 24/11/2021 4:56:39 p. m.
+Verificación por correo  OK 24/11/2021 4:56:54 p. m.
+Caso de prueba Registro OK 24/11/2021 4:56:54 p. m.
+
+Usuario registrado 
+Nombre usuario: greenatm2416
+Nit: 360679733
+Correo: greenatm2416@mailinator.com
+Contraseña: pruebasatm123*
+
+Inicio Robot Registro 24/11/2021 5:11:39 p. m.
+Caso de prueba: datos validos
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Formulario 1 OK 24/11/2021 5:11:44 p. m.
+Formulario 2 OK 24/11/2021 5:11:45 p. m.
+Formulario 3 OK 24/11/2021 5:11:46 p. m.
+Formulario 4 OK 24/11/2021 5:11:46 p. m.
+Formulario 5 OK 24/11/2021 5:11:55 p. m.
+Mensaje de registro exitoso OK 24/11/2021 5:11:59 p. m.
+Verificación por correo  OK 24/11/2021 5:12:13 p. m.
+Caso de prueba Registro OK 24/11/2021 5:12:13 p. m.
+
+Usuario registrado 
+Nombre usuario: greenatm3817
+Nit: 208345314
+Correo: greenatm3817@mailinator.com
+Contraseña: pruebasatm123*
+

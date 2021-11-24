@@ -2,5 +2,9 @@
   <testsuite name="Finaktiva">
     <testcase classname="k" name="Plataforma de creditos digitales Social" time="42805.018" />
     <testcase classname="k" name="Plataforma de creditos digitales Social" time="45049.978" />
+    <testcase classname="k" name="Plataforma de creditos digitales Social" time="74907.415" />
+    <testcase classname="k" name="Plataforma de creditos digitales Social" time="34390.997" />
+    <testcase classname="k" name="Plataforma de creditos digitales Social" time="38792.166" />
+    <testcase classname="k" name="Plataforma de creditos digitales Social" time="39140.056" />
   </testsuite>
 </testsuites>

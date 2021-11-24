@@ -17,3 +17,22 @@ Nombre Empresa: greenatm1381
 Correo del usuario: greenatm1381@mailinator.com
 Contraseña: greenatm1381@mailinator.com
 
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Solicita tu producto aquí OK 24/11/2021 1:42:17 p. m.
+Vinculación finalizada OK 24/11/2021 1:42:19 p. m.
+Factoring Paso 1 OK 24/11/2021 1:42:33 p. m.
+Factoring Paso 2 OK 24/11/2021 1:42:36 p. m.
+Factoring Paso 3 Parte 1 OK 24/11/2021 1:42:41 p. m.
+Factoring Paso 3 Parte 2 OK 24/11/2021 1:42:46 p. m.
+Factoring Paso 3 Parte 3 OK 24/11/2021 1:42:50 p. m.
+Solicitud Factoring Paso 3 - Mensaje de Factoring Exitoso OK 24/11/2021 1:42:50 p. m.
+Caso de prueba Exitoso 24/11/2021 1:42:50 p. m.
+
+Datos de Usuario Utilizado
+Nit: 
+Nombre Empresa: 
+Correo del usuario: greenatm4139@mailinator.com 
+Contraseña: pruebasatm123*
+

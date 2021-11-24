@@ -74,3 +74,78 @@ Caso de prueba: datos validos
 Ejecucion Mapa Registro OK
 Funcionalidad A Ejecutar: registro
 
+Ambiente: qa
+Flujo Solicitud Factoring Terminado - Fecha 24/11/2021 1:42:50 p. m.
+Usuario con correo: greenatm4139@mailinator.com 
+Caso de prueba de Solicitud: representante igual al usuario
+Funcionalidad A Ejecutar: factoring
+
+
+Ambiente: qa
+Flujo Registro Terminado - Fecha 24/11/2021 4:43:07 p. m. 
+Usuario con correo: greenatm6588@mailinator.com
+Nit: 888913683
+Caso de prueba de Registro: datos validos
+Funcionalidad A Ejecutar: todas
+
+Ambiente: qa
+Flujo Login Terminado - Fecha 24/11/2021 4:43:12 p. m.
+Usuario con correo: greenatm6588@mailinator.com
+Caso de prueba de Login: datos validos
+Funcionalidad A Ejecutar: todas
+
+Ambiente: qa
+Flujo Solicitud Crédito Terminado - Fecha 24/11/2021 4:44:11 p. m.
+Usuario con correo: greenatm6588@mailinator.com
+Caso de prueba de Solicitud: representante igual al usuario
+Funcionalidad A Ejecutar: todas
+
+
+Ambiente: qa
+Flujo Registro Terminado - Fecha 24/11/2021 4:51:45 p. m. 
+Usuario con correo: greenatm4679@mailinator.com
+Nit: 587693969
+Caso de prueba de Registro: datos validos
+Funcionalidad A Ejecutar: todas
+
+Ambiente: qa
+Flujo Login Terminado - Fecha 24/11/2021 4:51:51 p. m.
+Usuario con correo: greenatm4679@mailinator.com
+Caso de prueba de Login: datos validos
+Funcionalidad A Ejecutar: todas
+
+Ambiente: qa
+Flujo Solicitud Crédito Terminado - Fecha 24/11/2021 4:52:44 p. m.
+Usuario con correo: greenatm4679@mailinator.com
+Caso de prueba de Solicitud: representante igual al usuario
+Funcionalidad A Ejecutar: todas
+
+
+Ambiente: qa
+Flujo Registro Terminado - Fecha 24/11/2021 4:56:54 p. m. 
+Usuario con correo: greenatm2416@mailinator.com
+Nit: 360679733
+Caso de prueba de Registro: datos validos
+Funcionalidad A Ejecutar: todas
+
+Ambiente: qa
+Flujo Login Terminado - Fecha 24/11/2021 4:56:59 p. m.
+Usuario con correo: greenatm2416@mailinator.com
+Caso de prueba de Login: datos validos
+Funcionalidad A Ejecutar: todas
+
+Ambiente: qa
+Flujo Solicitud Crédito Terminado - Fecha 24/11/2021 4:58:12 p. m.
+Usuario con correo: greenatm2416@mailinator.com
+Caso de prueba de Solicitud: representante igual al usuario
+Funcionalidad A Ejecutar: todas
+
+
+Ambiente: qa
+Flujo Registro Terminado - Fecha 24/11/2021 5:12:13 p. m. 
+Usuario con correo: greenatm3817@mailinator.com
+Nit: 208345314
+Caso de prueba: datos validos
+Ejecucion Mapa Registro OK
+Funcionalidad A Ejecutar: registro
+

@@ -1,0 +1,19 @@
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Solicita tu producto aquí OK 19/11/2021 11:36:31 a. m.
+Vinculación finalizada OK 19/11/2021 11:36:34 a. m.
+Factoring Paso 1 OK 19/11/2021 11:36:46 a. m.
+Factoring Paso 2 OK 19/11/2021 11:36:49 a. m.
+Factoring Paso 3 Parte 1 OK 19/11/2021 11:36:54 a. m.
+Factoring Paso 3 Parte 2 OK 19/11/2021 11:36:58 a. m.
+Factoring Paso 3 Parte 3 OK 19/11/2021 11:37:02 a. m.
+Solicitud Factoring Paso 3 - Mensaje de Factoring Exitoso OK 19/11/2021 11:37:02 a. m.
+Caso de prueba Exitoso 19/11/2021 11:37:02 a. m.
+
+Datos de Usuario Utilizado
+Nit: 889790084
+Nombre Empresa: greenatm1381
+Correo del usuario: greenatm1381@mailinator.com
+Contraseña: greenatm1381@mailinator.com
+

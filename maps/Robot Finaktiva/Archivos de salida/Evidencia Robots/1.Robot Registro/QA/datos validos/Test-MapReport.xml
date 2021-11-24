@@ -1,0 +1,22 @@
+<testsuites>
+  <testsuite name="Finaktiva">
+    <testcase classname="k" name="Plataforma de creditos digitales Social" time="208182.045" />
+    <testcase classname="k" name="Plataforma de creditos digitales Social" time="47338.114" />
+    <testcase classname="k" name="Plataforma de creditos digitales Social" time="108878.862" />
+    <testcase classname="k" name="Plataforma de creditos digitales Social" time="198271.092" />
+    <testcase classname="k" name="Plataforma de creditos digitales Social" time="43764.651" />
+    <testcase classname="k" name="Plataforma de creditos digitales Social" time="106345.606" />
+    <testcase classname="k" name="Plataforma de creditos digitales Social" time="217188.758" />
+    <testcase classname="k" name="Plataforma de creditos digitales Social" time="41012.395" />
+    <testcase classname="k" name="Plataforma de creditos digitales Social" time="105414.021" />
+    <testcase classname="k" name="Plataforma de creditos digitales Social" time="216156.606" />
+    <testcase classname="k" name="Plataforma de creditos digitales Social" time="3962.874" />
+    <testcase classname="k" name="Plataforma de creditos digitales Social" time="9702.145" />
+    <testcase classname="k" name="Plataforma de creditos digitales Social" time="189691.715" />
+    <testcase classname="k" name="Plataforma de creditos digitales Social" time="4917.982" />
+    <testcase classname="k" name="Plataforma de creditos digitales Social" time="110264.054" />
+    <testcase classname="k" name="Plataforma de creditos digitales Social" time="188669.854" />
+    <testcase classname="k" name="Plataforma de creditos digitales Social" time="37487.478" />
+    <testcase classname="k" name="Plataforma de creditos digitales Social" time="97412.546" />
+  </testsuite>
+</testsuites>

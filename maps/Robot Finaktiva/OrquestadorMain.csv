@@ -1,0 +1,4 @@
+﻿Main>varAmbiente;Main>varFuncionalidadAEjecutar;Main>TipoDeSolicitud;Main>varCasoRegistro;Main>varCasoLogin;Main>varCasoSolicitud;Main>varPasoAValidar;Formulario1>varTipoSociedad;Formulario1>varOpcionesOtro;Formulario2>EscribirNivelVentas;Formulario3>varOpcionesSelect;Formulario4>varNecesitasFinanciazion;Formulario5>EscribirNit;Formulario5>EscribirCelular;Formulario5>EscribirCorreo;Formulario5>EscribirContrasena;Login>EscribirCorreo;Login>EscribirPassword
+qa;registro;1;datos validos;datos validos;representante igual al usuario;;Otro;Sociedad colectiva;200000000;Evento;si;;3114812564;;pruebasatm123*;;
+qa;registro;1;datos validos;datos validos;representante igual al usuario;;Otro;Sociedad colectiva;200000000;Evento;si;;3114812564;;pruebasatm123*;;
+qa;registro;1;datos validos;datos validos;representante igual al usuario;;Otro;Sociedad colectiva;200000000;Evento;si;;3114812564;;pruebasatm123*;;

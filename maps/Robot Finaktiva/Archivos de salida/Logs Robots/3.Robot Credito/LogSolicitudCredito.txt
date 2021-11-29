@@ -86,3 +86,422 @@ Nombre Empresa: greenatm2416
 Correo del usuario: greenatm2416@mailinator.com
 Contraseña: greenatm2416@mailinator.com
 
+Inicio Robot Solicitud 24/11/2021 5:56:22 p. m.
+Caso de prueba: representante igual al usuario
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso al menú de creditos - solicita tu producto aquí OK 24/11/2021 5:56:24 p. m.
+Vinculación finalizada OK 24/11/2021 5:56:34 p. m.
+Solicitud Crédito Paso 1 OK 24/11/2021 5:56:44 p. m.
+Solicitud Crédito Paso 2 OK 24/11/2021 5:56:51 p. m.
+Solicitud Crédito Paso 3 OK 24/11/2021 5:56:56 p. m.
+Solicitud Crédito Paso 4 OK 24/11/2021 5:57:00 p. m.
+
+24/11/2021 5:57:18 p. m. Se identificaron cambios o inestabilidad en los componentes del formulario/paso 5 con los selectores parametrizados, verifique estabilidad del ambiente o cambios en la aplicación.
+ 
+24/11/2021 5:57:18 p. m. Se ha identificado un hallazgo en el caso de prueba: Representante igual al usuario que ingresa los mismos datos del usuario para el representante legal, en la aplicación web Social en el flujo Solicitud de crédito. 
+Hallazgo técnico: No se encontró el img del collapse en la sección 'Documentos de tu empresa' en la pantalla 'Paso/Formulario 5' con el selector parametrizado, verifique estabilidad del ambiente o cambios en la aplicación
+Datos de Usuario Utilizado: 
+Nit: 333930265
+Nombre Empresa: greenatm7156
+Correo del usuario: greenatm7156@mailinator.com
+Contraseña: greenatm7156@mailinator.com
+
+Inicio Robot Solicitud 24/11/2021 6:03:50 p. m.
+Caso de prueba: representante igual al usuario
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso al menú de creditos - solicita tu producto aquí OK 24/11/2021 6:03:52 p. m.
+Vinculación finalizada OK 24/11/2021 6:04:02 p. m.
+Solicitud Crédito Paso 1 OK 24/11/2021 6:04:12 p. m.
+Solicitud Crédito Paso 2 OK 24/11/2021 6:04:19 p. m.
+Solicitud Crédito Paso 3 OK 24/11/2021 6:04:25 p. m.
+Solicitud Crédito Paso 4 OK 24/11/2021 6:04:31 p. m.
+Solicitud Crédito Paso 5 - Documentos cargados y casillas de verificación marcadas OK 24/11/2021 6:04:44 p. m.
+Solicitud Crédito Paso 5 - Solicitud enviada OK 24/11/2021 6:04:45 p. m.
+Solicitud Crédito Paso 5 - Mensaje de Solicitud Exitosa OK 24/11/2021 6:04:52 p. m.
+Caso de prueba Exitoso 24/11/2021 6:04:52 p. m.
+
+Datos de Usuario Utilizado
+Nit: 500658554
+Nombre Empresa: greenatm646
+Correo del usuario: greenatm646@mailinator.com
+Contraseña: greenatm646@mailinator.com
+
+Inicio Robot Solicitud 24/11/2021 6:07:20 p. m.
+Caso de prueba: representante igual al usuario
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso al menú de creditos - solicita tu producto aquí OK 24/11/2021 6:07:22 p. m.
+Vinculación finalizada OK 24/11/2021 6:07:32 p. m.
+Solicitud Crédito Paso 1 OK 24/11/2021 6:07:42 p. m.
+Solicitud Crédito Paso 2 OK 24/11/2021 6:07:48 p. m.
+Solicitud Crédito Paso 3 OK 24/11/2021 6:07:54 p. m.
+Solicitud Crédito Paso 4 OK 24/11/2021 6:07:58 p. m.
+
+24/11/2021 6:08:16 p. m. Se identificaron cambios o inestabilidad en los componentes del formulario/paso 5 con los selectores parametrizados, verifique estabilidad del ambiente o cambios en la aplicación.
+ 
+24/11/2021 6:08:16 p. m. Se ha identificado un hallazgo en el caso de prueba: Representante igual al usuario que ingresa los mismos datos del usuario para el representante legal, en la aplicación web Social en el flujo Solicitud de crédito. 
+Hallazgo técnico: No se encontró el img del collapse en la sección 'Documentos de tu empresa' en la pantalla 'Paso/Formulario 5' con el selector parametrizado, verifique estabilidad del ambiente o cambios en la aplicación
+Datos de Usuario Utilizado: 
+Nit: 826272065
+Nombre Empresa: greenatm6215
+Correo del usuario: greenatm6215@mailinator.com
+Contraseña: greenatm6215@mailinator.com
+
+Inicio Robot Solicitud 24/11/2021 6:15:09 p. m.
+Caso de prueba: representante igual al usuario
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+24/11/2021 6:15:21 p. m. Se identificaron cambios o inestabilidad en los componentes del Home del social con los selectores parametrizados, verifique estabilidad del ambiente o cambios en la aplicación.
+
+24/11/2021 6:15:21 p. m. Se ha identificado un hallazgo en el caso de prueba: Representante igual al usuario que ingresa los mismos datos del usuario para el representante legal, en la aplicación web Social en el flujo Solicitud de crédito. 
+Hallazgo técnico: No se encontró el menú Solicita Productos en la  pantalla Home con el selector parametrizado, verifique estabilidad del ambiente o cambios en la aplicación
+Datos de Usuario Utilizado: 
+Nit: 
+Nombre Empresa: 
+Correo del usuario: greenatm8048@mailinator.com
+Contraseña: greenatm8048@mailinator.com
+
+Inicio Robot Solicitud 24/11/2021 6:38:44 p. m.
+Caso de prueba: representante igual al usuario
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso al menú de creditos - solicita tu producto aquí OK 24/11/2021 6:38:47 p. m.
+Vinculación finalizada OK 24/11/2021 6:38:56 p. m.
+Solicitud Crédito Paso 1 OK 24/11/2021 6:39:06 p. m.
+Solicitud Crédito Paso 2 OK 24/11/2021 6:39:13 p. m.
+Solicitud Crédito Paso 3 OK 24/11/2021 6:39:19 p. m.
+Solicitud Crédito Paso 4 OK 24/11/2021 6:39:23 p. m.
+
+24/11/2021 6:39:40 p. m. Se identificaron cambios o inestabilidad en los componentes del formulario/paso 5 con los selectores parametrizados, verifique estabilidad del ambiente o cambios en la aplicación.
+ 
+24/11/2021 6:39:40 p. m. Se ha identificado un hallazgo en el caso de prueba: Representante igual al usuario que ingresa los mismos datos del usuario para el representante legal, en la aplicación web Social en el flujo Solicitud de crédito. 
+Hallazgo técnico: No se encontró el img del collapse en la sección 'Documentos de tu empresa' en la pantalla 'Paso/Formulario 5' con el selector parametrizado, verifique estabilidad del ambiente o cambios en la aplicación
+Datos de Usuario Utilizado: 
+Nit: 270467691
+Nombre Empresa: greenatm3628
+Correo del usuario: greenatm3628@mailinator.com
+Contraseña: greenatm3628@mailinator.com
+
+Inicio Robot Solicitud 29/11/2021 10:36:38 a. m.
+Caso de prueba: representante igual al usuario
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso al menú de creditos - solicita tu producto aquí OK 29/11/2021 10:36:41 a. m.
+Vinculación finalizada OK 29/11/2021 10:36:51 a. m.
+Solicitud Crédito Paso 1 OK 29/11/2021 10:37:03 a. m.
+Solicitud Crédito Paso 2 OK 29/11/2021 10:37:10 a. m.
+Solicitud Crédito Paso 3 OK 29/11/2021 10:37:17 a. m.
+Solicitud Crédito Paso 4 OK 29/11/2021 10:37:22 a. m.
+Solicitud Crédito Paso 5 - Documentos cargados y casillas de verificación marcadas OK 29/11/2021 10:37:41 a. m.
+Solicitud Crédito Paso 5 - Solicitud enviada OK 29/11/2021 10:37:41 a. m.
+Solicitud Crédito Paso 5 - Mensaje de Solicitud Exitosa OK 29/11/2021 10:37:49 a. m.
+Caso de prueba Exitoso 29/11/2021 10:37:49 a. m.
+
+Datos de Usuario Utilizado
+Nit: 782829853
+Nombre Empresa: greenatm9112
+Correo del usuario: greenatm9112@mailinator.com
+Contraseña: greenatm9112@mailinator.com
+
+Inicio Robot Solicitud 29/11/2021 10:41:23 a. m.
+Caso de prueba: representante igual al usuario
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso al menú de creditos - solicita tu producto aquí OK 29/11/2021 10:41:26 a. m.
+Vinculación finalizada OK 29/11/2021 10:41:37 a. m.
+Solicitud Crédito Paso 1 OK 29/11/2021 10:41:48 a. m.
+Solicitud Crédito Paso 2 OK 29/11/2021 10:41:55 a. m.
+Solicitud Crédito Paso 3 OK 29/11/2021 10:42:01 a. m.
+Solicitud Crédito Paso 4 OK 29/11/2021 10:42:06 a. m.
+
+29/11/2021 10:42:26 a. m. Se identificaron cambios o inestabilidad en los componentes del formulario/paso 5 con los selectores parametrizados, verifique estabilidad del ambiente o cambios en la aplicación.
+ 
+29/11/2021 10:42:27 a. m. Se ha identificado un hallazgo en el caso de prueba: Representante igual al usuario que ingresa los mismos datos del usuario para el representante legal, en la aplicación web Social en el flujo Solicitud de crédito. 
+Hallazgo técnico: No se encontró el img del collapse en la sección 'Documentos de tu empresa' en la pantalla 'Paso/Formulario 5' con el selector parametrizado, verifique estabilidad del ambiente o cambios en la aplicación
+Datos de Usuario Utilizado: 
+Nit: 136855301
+Nombre Empresa: greenatm5523
+Correo del usuario: greenatm5523@mailinator.com
+Contraseña: greenatm5523@mailinator.com
+
+Inicio Robot Solicitud 29/11/2021 1:11:53 p. m.
+Caso de prueba: representante igual al usuario
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso al menú de creditos - solicita tu producto aquí OK 29/11/2021 1:11:55 p. m.
+Vinculación finalizada OK 29/11/2021 1:12:05 p. m.
+Solicitud Crédito Paso 1 OK 29/11/2021 1:12:16 p. m.
+Solicitud Crédito Paso 2 OK 29/11/2021 1:12:22 p. m.
+Solicitud Crédito Paso 3 OK 29/11/2021 1:12:28 p. m.
+Solicitud Crédito Paso 4 OK 29/11/2021 1:12:33 p. m.
+
+29/11/2021 1:12:56 p. m. Se identificaron cambios o inestabilidad en los componentes del formulario/paso 5 con los selectores parametrizados, verifique estabilidad del ambiente o cambios en la aplicación.
+ 
+29/11/2021 1:12:57 p. m. Se ha identificado un hallazgo en el caso de prueba: Representante igual al usuario que ingresa los mismos datos del usuario para el representante legal, en la aplicación web Social en el flujo Solicitud de crédito. 
+Hallazgo técnico: No se encontró el img del collapse en la sección 'Documentos de tu empresa' en la pantalla 'Paso/Formulario 5' con el selector parametrizado, verifique estabilidad del ambiente o cambios en la aplicación
+Datos de Usuario Utilizado: 
+Nit: 621066740
+Nombre Empresa: greenatm8394
+Correo del usuario: greenatm8394@mailinator.com
+Contraseña: greenatm8394@mailinator.com
+
+Inicio Robot Solicitud de Crédito 29/11/2021 1:29:51 p. m.
+Caso de prueba: representante igual al usuario
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso al menú de creditos - solicita tu producto aquí OK 29/11/2021 1:29:53 p. m.
+Vinculación finalizada OK 29/11/2021 1:30:04 p. m.
+Solicitud Crédito Paso 1 OK 29/11/2021 1:30:15 p. m.
+Solicitud Crédito Paso 2 OK 29/11/2021 1:30:21 p. m.
+Solicitud Crédito Paso 3 OK 29/11/2021 1:30:27 p. m.
+Solicitud Crédito Paso 4 OK 29/11/2021 1:30:32 p. m.
+
+29/11/2021 1:30:48 p. m. Se identificaron cambios o inestabilidad en los componentes del formulario/paso 5 con los selectores parametrizados, verifique estabilidad del ambiente o cambios en la aplicación.
+ 
+29/11/2021 1:30:48 p. m. Se ha identificado un hallazgo en el caso de prueba: Flujo Alterno que valida que se guarden los datos en el paso/formulario seleccionado, en la aplicación web Social en el flujo Solicitud de crédito. 
+Hallazgo técnico: No se encontró el img del collapse en la sección 'Documentos de tu empresa' en la pantalla 'Paso/Formulario 5' con el selector parametrizado, verifique estabilidad del ambiente o cambios en la aplicación
+Datos de Usuario Utilizado: 
+Nit: 722313836
+Nombre Empresa: greenatm9519
+Correo del usuario: greenatm9519@mailinator.com
+Contraseña: greenatm9519@mailinator.com
+
+Inicio Robot Solicitud de Crédito 29/11/2021 1:44:48 p. m.
+Caso de prueba: representante igual al usuario
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso al menú de creditos - solicita tu producto aquí OK 29/11/2021 1:44:50 p. m.
+Vinculación finalizada OK 29/11/2021 1:45:04 p. m.
+Solicitud Crédito Paso 1 OK 29/11/2021 1:45:16 p. m.
+Solicitud Crédito Paso 2 OK 29/11/2021 1:45:23 p. m.
+Solicitud Crédito Paso 3 OK 29/11/2021 1:45:30 p. m.
+Solicitud Crédito Paso 4 OK 29/11/2021 1:45:35 p. m.
+
+29/11/2021 1:45:53 p. m. Se identificaron cambios o inestabilidad en los componentes del formulario/paso 5 con los selectores parametrizados, verifique estabilidad del ambiente o cambios en la aplicación.
+ 
+29/11/2021 1:45:53 p. m. Se ha identificado un hallazgo en el caso de prueba: Flujo Alterno que valida que se guarden los datos en el paso/formulario seleccionado, en la aplicación web Social en el flujo Solicitud de crédito. 
+Hallazgo técnico: No se encontró el img del collapse en la sección 'Documentos de tu empresa' en la pantalla 'Paso/Formulario 5' con el selector parametrizado, verifique estabilidad del ambiente o cambios en la aplicación
+Datos de Usuario Utilizado: 
+Nit: 718127964
+Nombre Empresa: greenatm4698
+Correo del usuario: greenatm4698@mailinator.com
+Contraseña: greenatm4698@mailinator.com
+
+Inicio Robot Solicitud de Crédito 29/11/2021 1:56:52 p. m.
+Caso de prueba: representante igual al usuario
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso al menú de creditos - solicita tu producto aquí OK 29/11/2021 1:56:54 p. m.
+Vinculación finalizada OK 29/11/2021 1:57:11 p. m.
+
+29/11/2021 1:57:38 p. m. Se identificaron cambios o inestabilidad en los componentes del formulario/paso 1 con los selectores parametrizados, verifique estabilidad del ambiente o cambios en la aplicación.
+
+29/11/2021 1:57:38 p. m. Se ha identificado un hallazgo en el caso de prueba: Flujo Alterno que valida que se guarden los datos en el paso/formulario seleccionado, en la aplicación web Social en el flujo Solicitud de crédito. 
+Hallazgo técnico: No se encontró el button 'Continuar'  en la pantalla 'Paso/Formulario 1' con el selector parametrizado, verifique estabilidad del ambiente o cambios en la aplicación
+Datos de Usuario Utilizado: 
+Nit: 968636803
+Nombre Empresa: greenatm5845
+Correo del usuario: greenatm5845@mailinator.com
+Contraseña: greenatm5845@mailinator.com
+
+Inicio Robot Solicitud de Crédito 29/11/2021 2:00:40 p. m.
+Caso de prueba: representante igual al usuario
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso al menú de creditos - solicita tu producto aquí OK 29/11/2021 2:00:43 p. m.
+Vinculación finalizada OK 29/11/2021 2:00:58 p. m.
+Solicitud Crédito Paso 1 OK 29/11/2021 2:01:08 p. m.
+Solicitud Crédito Paso 2 OK 29/11/2021 2:01:15 p. m.
+Solicitud Crédito Paso 3 OK 29/11/2021 2:01:21 p. m.
+Solicitud Crédito Paso 4 OK 29/11/2021 2:01:30 p. m.
+
+29/11/2021 2:01:50 p. m. Se identificaron cambios o inestabilidad en los componentes del formulario/paso 5 con los selectores parametrizados, verifique estabilidad del ambiente o cambios en la aplicación.
+ 
+29/11/2021 2:01:50 p. m. Se ha identificado un hallazgo en el caso de prueba: Flujo Alterno que valida que se guarden los datos en el paso/formulario seleccionado, en la aplicación web Social en el flujo Solicitud de crédito. 
+Hallazgo técnico: No se encontró el img del collapse en la sección 'Documentos de tu empresa' en la pantalla 'Paso/Formulario 5' con el selector parametrizado, verifique estabilidad del ambiente o cambios en la aplicación
+Datos de Usuario Utilizado: 
+Nit: 643050342
+Nombre Empresa: greenatm8638
+Correo del usuario: greenatm8638@mailinator.com
+Contraseña: greenatm8638@mailinator.com
+
+Inicio Robot Solicitud de Crédito 29/11/2021 2:11:31 p. m.
+Caso de prueba: representante igual al usuario
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso al menú de creditos - solicita tu producto aquí OK 29/11/2021 2:11:33 p. m.
+Vinculación finalizada OK 29/11/2021 2:11:45 p. m.
+Solicitud Crédito Paso 1 OK 29/11/2021 2:11:56 p. m.
+Solicitud Crédito Paso 2 OK 29/11/2021 2:12:03 p. m.
+Solicitud Crédito Paso 3 OK 29/11/2021 2:12:09 p. m.
+Solicitud Crédito Paso 4 OK 29/11/2021 2:12:15 p. m.
+Solicitud Crédito Paso 5 - Documentos cargados y casillas de verificación marcadas OK 29/11/2021 2:12:33 p. m.
+Solicitud Crédito Paso 5 - Solicitud enviada OK 29/11/2021 2:12:33 p. m.
+Solicitud Crédito Paso 5 - Mensaje de Solicitud Exitosa OK 29/11/2021 2:12:41 p. m.
+Caso de prueba Exitoso 29/11/2021 2:12:41 p. m.
+
+Datos de Usuario Utilizado
+Nit: 496303288
+Nombre Empresa: greenatm5057
+Correo del usuario: greenatm5057@mailinator.com
+Contraseña: greenatm5057@mailinator.com
+
+Inicio Robot Solicitud 29/11/2021 2:12:42 p. m.
+Caso de prueba: representante igual al usuario
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso al menú de creditos - solicita tu producto aquí OK 29/11/2021 2:12:45 p. m.
+
+29/11/2021 2:13:46 p. m. Se identificaron cambios o inestabilidad en los componentes del Home del social con los selectores parametrizados, verifique estabilidad del ambiente o cambios en la aplicación.
+
+29/11/2021 2:13:46 p. m. Se ha identificado un hallazgo en el caso de prueba: Representante igual al usuario que ingresa los mismos datos del usuario para el representante legal, en la aplicación web Social en el flujo Solicitud de crédito. 
+Hallazgo técnico: No se encontró el formulario de Vinculación con el selector parametrizado, verifique estabilidad del ambiente o cambios en la aplicación
+Datos de Usuario Utilizado: 
+Nit: 
+Nombre Empresa: 
+Correo del usuario: greenatm5057@mailinator.com
+Contraseña: greenatm5057@mailinator.com
+
+Inicio Robot Solicitud de Crédito 29/11/2021 4:16:05 p. m.
+Caso de prueba: representante igual al usuario
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso al menú de creditos - solicita tu producto aquí OK 29/11/2021 4:16:07 p. m.
+Vinculación finalizada OK 29/11/2021 4:16:25 p. m.
+Solicitud Crédito Paso 1 OK 29/11/2021 4:16:39 p. m.
+
+29/11/2021 4:16:53 p. m. Se identificaron cambios o inestabilidad en los componentes del formulario/paso 2 con los selectores parametrizados, verifique estabilidad del ambiente o cambios en la aplicación.
+
+29/11/2021 4:16:53 p. m. Se ha identificado un hallazgo en el caso de prueba: Flujo Alterno que valida que se guarden los datos en el paso/formulario seleccionado, en la aplicación web Social en el flujo Solicitud de crédito. 
+Hallazgo técnico: No se encontró el valor ingresado en el campo 'Tipo de documento del contador' en la pantalla 'Paso/Formulario 2' con el selector parametrizado, verifique estabilidad del ambiente o cambios en la aplicación
+Datos de Usuario Utilizado: 
+Nit: 928119513
+Nombre Empresa: greenatm8218
+Correo del usuario: greenatm8218@mailinator.com
+Contraseña: greenatm8218@mailinator.com
+
+Inicio Robot Solicitud de Crédito 29/11/2021 4:30:27 p. m.
+Caso de prueba: representante igual al usuario
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso al menú de creditos - solicita tu producto aquí OK 29/11/2021 4:30:29 p. m.
+Vinculación finalizada OK 29/11/2021 4:30:40 p. m.
+Solicitud Crédito Paso 1 OK 29/11/2021 4:30:52 p. m.
+Solicitud Crédito Paso 2 OK 29/11/2021 4:30:59 p. m.
+Solicitud Crédito Paso 3 OK 29/11/2021 4:31:05 p. m.
+Solicitud Crédito Paso 4 OK 29/11/2021 4:31:11 p. m.
+Solicitud Crédito Paso 5 - Documentos cargados y casillas de verificación marcadas OK 29/11/2021 4:31:31 p. m.
+Solicitud Crédito Paso 5 - Solicitud enviada OK 29/11/2021 4:31:31 p. m.
+Solicitud Crédito Paso 5 - Mensaje de Solicitud Exitosa OK 29/11/2021 4:31:39 p. m.
+Caso de prueba Exitoso 29/11/2021 4:31:39 p. m.
+
+Datos de Usuario Utilizado
+Nit: 628099287
+Nombre Empresa: greenatm2934
+Correo del usuario: greenatm2934@mailinator.com
+Contraseña: greenatm2934@mailinator.com
+
+Inicio Robot Solicitud 29/11/2021 4:31:41 p. m.
+Caso de prueba: representante igual al usuario
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso al menú de creditos - solicita tu producto aquí OK 29/11/2021 4:31:43 p. m.
+
+29/11/2021 4:32:44 p. m. Se identificaron cambios o inestabilidad en los componentes del Home del social con los selectores parametrizados, verifique estabilidad del ambiente o cambios en la aplicación.
+
+29/11/2021 4:32:44 p. m. Se ha identificado un hallazgo en el caso de prueba: Representante igual al usuario que ingresa los mismos datos del usuario para el representante legal, en la aplicación web Social en el flujo Solicitud de crédito. 
+Hallazgo técnico: No se encontró el formulario de Vinculación con el selector parametrizado, verifique estabilidad del ambiente o cambios en la aplicación
+Datos de Usuario Utilizado: 
+Nit: 
+Nombre Empresa: 
+Correo del usuario: greenatm2934@mailinator.com
+Contraseña: greenatm2934@mailinator.com
+
+Inicio Robot Solicitud 29/11/2021 4:32:46 p. m.
+Caso de prueba: representante igual al usuario
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+29/11/2021 4:32:58 p. m. Se identificaron cambios o inestabilidad en los componentes del Home del social con los selectores parametrizados, verifique estabilidad del ambiente o cambios en la aplicación.
+
+29/11/2021 4:32:59 p. m. Se ha identificado un hallazgo en el caso de prueba: Representante legal diferente del usuario que ingresa  datos diferentes del usuario para el representante legal, en la aplicación web Social en el flujo Solicitud de crédito. 
+Hallazgo técnico: No se encontró el menú Solicita Productos en la  pantalla Home con el selector parametrizado, verifique estabilidad del ambiente o cambios en la aplicación
+Datos de Usuario Utilizado: 
+Nit: 
+Nombre Empresa: 
+Correo del usuario: greenatm2934@mailinator.com
+Contraseña: greenatm2934@mailinator.com
+
+Inicio Robot Solicitud de Crédito 29/11/2021 4:40:42 p. m.
+Caso de prueba: representante igual al usuario
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso al menú de creditos - solicita tu producto aquí OK 29/11/2021 4:40:45 p. m.
+Vinculación finalizada OK 29/11/2021 4:40:59 p. m.
+Solicitud Crédito Paso 1 OK 29/11/2021 4:41:10 p. m.
+Solicitud Crédito Paso 2 OK 29/11/2021 4:41:17 p. m.
+Solicitud Crédito Paso 3 OK 29/11/2021 4:41:23 p. m.
+Solicitud Crédito Paso 4 OK 29/11/2021 4:41:28 p. m.
+Solicitud Crédito Paso 5 - Documentos cargados y casillas de verificación marcadas OK 29/11/2021 4:41:46 p. m.
+Solicitud Crédito Paso 5 - Solicitud enviada OK 29/11/2021 4:41:46 p. m.
+Solicitud Crédito Paso 5 - Mensaje de Solicitud Exitosa OK 29/11/2021 4:41:54 p. m.
+Caso de prueba Exitoso 29/11/2021 4:41:54 p. m.
+
+Datos de Usuario Utilizado
+Nit: 696791492
+Nombre Empresa: greenatm873
+Correo del usuario: greenatm873@mailinator.com
+Contraseña: greenatm873@mailinator.com
+
+Inicio Robot Solicitud 29/11/2021 4:41:55 p. m.
+Caso de prueba: representante igual al usuario
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+29/11/2021 4:42:10 p. m. Se identificaron cambios o inestabilidad en los componentes del Home del social con los selectores parametrizados, verifique estabilidad del ambiente o cambios en la aplicación.
+
+29/11/2021 4:42:10 p. m. Se ha identificado un hallazgo en el caso de prueba: Representante igual al usuario que ingresa los mismos datos del usuario para el representante legal, en la aplicación web Social en el flujo Solicitud de crédito. 
+Hallazgo técnico: No se encontró el botón Solicita tu producto aquí en la pantalla Home con el selector parametrizado, verifique estabilidad del ambiente o cambios en la aplicación
+Datos de Usuario Utilizado: 
+Nit: 
+Nombre Empresa: 
+Correo del usuario: greenatm873@mailinator.com
+Contraseña: greenatm873@mailinator.com
+
+Inicio Robot Solicitud 29/11/2021 4:42:11 p. m.
+Caso de prueba: representante igual al usuario
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso al menú de creditos - solicita tu producto aquí OK 29/11/2021 4:42:14 p. m.
+
+29/11/2021 4:43:14 p. m. Se identificaron cambios o inestabilidad en los componentes del Home del social con los selectores parametrizados, verifique estabilidad del ambiente o cambios en la aplicación.
+
+29/11/2021 4:43:15 p. m. Se ha identificado un hallazgo en el caso de prueba: Representante legal diferente del usuario que ingresa  datos diferentes del usuario para el representante legal, en la aplicación web Social en el flujo Solicitud de crédito. 
+Hallazgo técnico: No se encontró el formulario de Vinculación con el selector parametrizado, verifique estabilidad del ambiente o cambios en la aplicación
+Datos de Usuario Utilizado: 
+Nit: 
+Nombre Empresa: 
+Correo del usuario: greenatm873@mailinator.com
+Contraseña: greenatm873@mailinator.com
+

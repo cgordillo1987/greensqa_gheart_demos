@@ -1,6 +1,0 @@
-<testsuites>
-  <testsuite name="Finaktiva">
-    <testcase classname="k" name="Plataforma de creditos digitales Social" time="340468.671" />
-    <testcase classname="k" name="Plataforma de creditos digitales Social" time="357613.736" />
-  </testsuite>
-</testsuites>

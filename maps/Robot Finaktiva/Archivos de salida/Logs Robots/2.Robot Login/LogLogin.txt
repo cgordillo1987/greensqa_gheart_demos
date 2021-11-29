@@ -64,3 +64,191 @@ Ingreso credenciales OK 24/11/2021 4:56:57 p. m.
 Inicio sesión exitoso 24/11/2021 4:56:59 p. m.
 Caso de prueba Exitoso 24/11/2021 4:56:59 p. m.
 
+Inicio Robot Login 24/11/2021 5:56:16 p. m.
+Usuario con correo: greenatm7156@mailinator.com
+Caso de prueba: datos validos
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso pantalla inicio de sesión OK 24/11/2021 5:56:16 p. m.
+Ingreso credenciales OK 24/11/2021 5:56:18 p. m.
+Inicio sesión exitoso 24/11/2021 5:56:21 p. m.
+Caso de prueba Exitoso 24/11/2021 5:56:21 p. m.
+
+Inicio Robot Login 24/11/2021 6:03:43 p. m.
+Usuario con correo: greenatm646@mailinator.com
+Caso de prueba: datos validos
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso pantalla inicio de sesión OK 24/11/2021 6:03:43 p. m.
+Ingreso credenciales OK 24/11/2021 6:03:45 p. m.
+Inicio sesión exitoso 24/11/2021 6:03:48 p. m.
+Caso de prueba Exitoso 24/11/2021 6:03:48 p. m.
+
+Inicio Robot Login 24/11/2021 6:07:14 p. m.
+Usuario con correo: greenatm6215@mailinator.com
+Caso de prueba: datos validos
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso pantalla inicio de sesión OK 24/11/2021 6:07:14 p. m.
+Ingreso credenciales OK 24/11/2021 6:07:16 p. m.
+Inicio sesión exitoso 24/11/2021 6:07:18 p. m.
+Caso de prueba Exitoso 24/11/2021 6:07:18 p. m.
+
+Inicio Robot Login 24/11/2021 6:15:02 p. m.
+Usuario con correo: greenatm8048@mailinator.com
+Caso de prueba: datos validos
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso pantalla inicio de sesión OK 24/11/2021 6:15:02 p. m.
+Ingreso credenciales OK 24/11/2021 6:15:04 p. m.
+Inicio sesión exitoso 24/11/2021 6:15:07 p. m.
+Caso de prueba Exitoso 24/11/2021 6:15:07 p. m.
+
+Inicio Robot Login 24/11/2021 6:34:30 p. m.
+Usuario con correo: greenatm452@mailinator.com
+Caso de prueba: datos validos
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso pantalla inicio de sesión OK 24/11/2021 6:34:30 p. m.
+Ingreso credenciales OK 24/11/2021 6:34:32 p. m.
+
+24/11/2021 6:35:03 p. m. Se ha identificado un hallazgo en el caso de prueba: 'Realizar inicio de sesión cuando se ingresa un correo valido completo con valor: greenatm452@mailinator.com y una clave valida con valor: pruebasatm123*' para la aplicación web Social en el flujo login.
+Hallazgo técnico: No se encontró el elemento de verificación de inicio sesión con el selector parametrizado, verifique estabilidad del ambiente o cambios en la aplicación
+
+Inicio Robot Login 24/11/2021 6:38:38 p. m.
+Usuario con correo: greenatm3628@mailinator.com
+Caso de prueba: datos validos
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso pantalla inicio de sesión OK 24/11/2021 6:38:38 p. m.
+Ingreso credenciales OK 24/11/2021 6:38:40 p. m.
+Inicio sesión exitoso 24/11/2021 6:38:42 p. m.
+Caso de prueba Exitoso 24/11/2021 6:38:42 p. m.
+
+Inicio Robot Login 29/11/2021 10:36:28 a. m.
+Usuario con correo: greenatm9112@mailinator.com
+Caso de prueba: datos validos
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso pantalla inicio de sesión OK 29/11/2021 10:36:28 a. m.
+Ingreso credenciales OK 29/11/2021 10:36:31 a. m.
+Inicio sesión exitoso 29/11/2021 10:36:34 a. m.
+Caso de prueba Exitoso 29/11/2021 10:36:34 a. m.
+
+Inicio Robot Login 29/11/2021 10:41:15 a. m.
+Usuario con correo: greenatm5523@mailinator.com
+Caso de prueba: datos validos
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso pantalla inicio de sesión OK 29/11/2021 10:41:15 a. m.
+Ingreso credenciales OK 29/11/2021 10:41:18 a. m.
+Inicio sesión exitoso 29/11/2021 10:41:21 a. m.
+Caso de prueba Exitoso 29/11/2021 10:41:21 a. m.
+
+Inicio Robot Login 29/11/2021 1:11:44 p. m.
+Usuario con correo: greenatm8394@mailinator.com
+Caso de prueba: datos validos
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso pantalla inicio de sesión OK 29/11/2021 1:11:44 p. m.
+Ingreso credenciales OK 29/11/2021 1:11:47 p. m.
+Inicio sesión exitoso 29/11/2021 1:11:49 p. m.
+Caso de prueba Exitoso 29/11/2021 1:11:49 p. m.
+
+Inicio Robot Login 29/11/2021 1:29:42 p. m.
+Usuario con correo: greenatm9519@mailinator.com
+Caso de prueba: datos validos
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso pantalla inicio de sesión OK 29/11/2021 1:29:42 p. m.
+Ingreso credenciales OK 29/11/2021 1:29:45 p. m.
+Inicio sesión exitoso 29/11/2021 1:29:48 p. m.
+Caso de prueba Exitoso 29/11/2021 1:29:48 p. m.
+
+Inicio Robot Login 29/11/2021 1:44:41 p. m.
+Usuario con correo: greenatm4698@mailinator.com
+Caso de prueba: datos validos
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso pantalla inicio de sesión OK 29/11/2021 1:44:41 p. m.
+Ingreso credenciales OK 29/11/2021 1:44:44 p. m.
+Inicio sesión exitoso 29/11/2021 1:44:46 p. m.
+Caso de prueba Exitoso 29/11/2021 1:44:46 p. m.
+
+Inicio Robot Login 29/11/2021 1:56:44 p. m.
+Usuario con correo: greenatm5845@mailinator.com
+Caso de prueba: datos validos
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso pantalla inicio de sesión OK 29/11/2021 1:56:44 p. m.
+Ingreso credenciales OK 29/11/2021 1:56:47 p. m.
+Inicio sesión exitoso 29/11/2021 1:56:49 p. m.
+Caso de prueba Exitoso 29/11/2021 1:56:49 p. m.
+
+Inicio Robot Login 29/11/2021 2:00:33 p. m.
+Usuario con correo: greenatm8638@mailinator.com
+Caso de prueba: datos validos
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso pantalla inicio de sesión OK 29/11/2021 2:00:33 p. m.
+Ingreso credenciales OK 29/11/2021 2:00:36 p. m.
+Inicio sesión exitoso 29/11/2021 2:00:38 p. m.
+Caso de prueba Exitoso 29/11/2021 2:00:38 p. m.
+
+Inicio Robot Login 29/11/2021 2:11:22 p. m.
+Usuario con correo: greenatm5057@mailinator.com
+Caso de prueba: datos validos
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso pantalla inicio de sesión OK 29/11/2021 2:11:22 p. m.
+Ingreso credenciales OK 29/11/2021 2:11:25 p. m.
+Inicio sesión exitoso 29/11/2021 2:11:28 p. m.
+Caso de prueba Exitoso 29/11/2021 2:11:28 p. m.
+
+Inicio Robot Login 29/11/2021 4:15:55 p. m.
+Usuario con correo: greenatm8218@mailinator.com
+Caso de prueba: datos validos
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso pantalla inicio de sesión OK 29/11/2021 4:15:55 p. m.
+Ingreso credenciales OK 29/11/2021 4:15:57 p. m.
+Inicio sesión exitoso 29/11/2021 4:16:01 p. m.
+Caso de prueba Exitoso 29/11/2021 4:16:01 p. m.
+
+Inicio Robot Login 29/11/2021 4:30:17 p. m.
+Usuario con correo: greenatm2934@mailinator.com
+Caso de prueba: datos validos
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso pantalla inicio de sesión OK 29/11/2021 4:30:17 p. m.
+Ingreso credenciales OK 29/11/2021 4:30:19 p. m.
+Inicio sesión exitoso 29/11/2021 4:30:24 p. m.
+Caso de prueba Exitoso 29/11/2021 4:30:24 p. m.
+
+Inicio Robot Login 29/11/2021 4:40:29 p. m.
+Usuario con correo: greenatm873@mailinator.com
+Caso de prueba: datos validos
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso pantalla inicio de sesión OK 29/11/2021 4:40:29 p. m.
+Ingreso credenciales OK 29/11/2021 4:40:31 p. m.
+Inicio sesión exitoso 29/11/2021 4:40:38 p. m.
+Caso de prueba Exitoso 29/11/2021 4:40:38 p. m.
+

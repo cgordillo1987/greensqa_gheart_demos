@@ -94,3 +94,11 @@ Correo: greenatm6902@mailinator.com
 Contraseña: pruebasatm123*
 Ambiente: QA
 
+Nombre usuario: greenatm9412
+Nit: 431496273
+Nombre Empresa: greenatm9412
+Fecha de creacion: 30/11/2021 11:51:38 a. m.
+Correo: greenatm9412@mailinator.com
+Contraseña: pruebasatm123*
+Ambiente: QA
+

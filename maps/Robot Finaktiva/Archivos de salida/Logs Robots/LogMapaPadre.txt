@@ -615,3 +615,12 @@ Caso de prueba: datos validos
 Ejecucion Mapa Registro OK
 Funcionalidad A Ejecutar: registro
 
+
+Ambiente: qa
+Flujo Registro Terminado - Fecha 30/11/2021 11:51:38 a. m. 
+Usuario con correo: greenatm9412@mailinator.com
+Nit: 431496273
+Caso de prueba: datos validos
+Ejecucion Mapa Registro OK
+Funcionalidad A Ejecutar: registro
+

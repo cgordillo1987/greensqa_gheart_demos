@@ -252,3 +252,25 @@ Ingreso credenciales OK 29/11/2021 4:40:31 p. m.
 Inicio sesión exitoso 29/11/2021 4:40:38 p. m.
 Caso de prueba Exitoso 29/11/2021 4:40:38 p. m.
 
+Inicio Robot Login 29/11/2021 4:55:07 p. m.
+Usuario con correo: greenatm7120@mailinator.com
+Caso de prueba: datos validos
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso pantalla inicio de sesión OK 29/11/2021 4:55:07 p. m.
+Ingreso credenciales OK 29/11/2021 4:55:10 p. m.
+Inicio sesión exitoso 29/11/2021 4:55:12 p. m.
+Caso de prueba Exitoso 29/11/2021 4:55:12 p. m.
+
+Inicio Robot Login 29/11/2021 6:40:30 p. m.
+Usuario con correo: greenatm7998@mailinator.com
+Caso de prueba: datos validos
+Url: https://qasocial3.pladik.com.co/auth/
+Ambiente: QA
+
+Ingreso pantalla inicio de sesión OK 29/11/2021 6:40:30 p. m.
+Ingreso credenciales OK 29/11/2021 6:40:42 p. m.
+Inicio sesión exitoso 29/11/2021 6:40:48 p. m.
+Caso de prueba Exitoso 29/11/2021 6:40:48 p. m.
+

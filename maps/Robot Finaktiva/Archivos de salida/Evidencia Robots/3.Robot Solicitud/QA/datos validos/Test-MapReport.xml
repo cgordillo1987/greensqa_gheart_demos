@@ -1,0 +1,29 @@
+<testsuites>
+  <testsuite name="Finaktiva">
+    <testcase classname="k" name="Plataforma de creditos digitales Social" time="144214.687">
+      <failure message="Error (IngresoCredito).(ClicSolicitaProductoAqui).SeClick()" type="ERROR">Action not executed for the element By.XPath: span[class='btn--solicitar'] - El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index</failure>
+    </testcase>
+    <testcase classname="k" name="Plataforma de creditos digitales Social" time="14796.298">
+      <failure message="Error (IngresoCredito).(ClicSolicitaProductoAqui).SeClick()" type="ERROR">Action not executed for the element By.XPath: span[class='btn--solicitar'] - El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index</failure>
+    </testcase>
+    <testcase classname="k" name="Plataforma de creditos digitales Social" time="147229.885">
+      <failure message="Error (IngresoCredito).(ClicSolicitaProductoAqui).SeClick()" type="ERROR">Action not executed for the element By.XPath: span[class='btn--solicitar'] - El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index</failure>
+    </testcase>
+    <testcase classname="k" name="Plataforma de creditos digitales Social" time="14780.644">
+      <failure message="Error (IngresoCredito).(ClicSolicitaProductoAqui).SeClick()" type="ERROR">Action not executed for the element By.XPath: span[class='btn--solicitar'] - El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index</failure>
+    </testcase>
+    <testcase classname="k" name="Plataforma de creditos digitales Social" time="144199.313">
+      <failure message="Error (IngresoCredito).(ClicSolicitaProductoAqui).SeClick()" type="ERROR">Action not executed for the element By.XPath: span[class='btn--solicitar'] - El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index</failure>
+    </testcase>
+    <testcase classname="k" name="Plataforma de creditos digitales Social" time="856727.849" />
+    <testcase classname="k" name="Plataforma de creditos digitales Social" time="772315.097">
+      <failure message="Error (SolicitudPaso5_Parte1).(CerrarCollapse).SeClick()" type="ERROR">Action not executed for the element By.CssSelector: img[class*='panel-heading--icons__img'][src*='down-arrow.png'] - element click intercepted: Element &lt;img _ngcontent-qwv-c124="" src="../../../../../assets/icons/down-arrow.png" alt="" class="panel-heading--icons__img panel-heading--rotate"&gt; is not clickable at point (1209, 113). Other element would receive the click: &lt;div _ngcontent-qwv-c110="" class="container-button-item"&gt;...&lt;/div&gt;
+  (Session info: headless chrome=96.0.4664.45)</failure>
+    </testcase>
+  </testsuite>
+</testsuites>

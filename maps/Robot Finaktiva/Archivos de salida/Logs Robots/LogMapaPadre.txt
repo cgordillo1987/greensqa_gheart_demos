@@ -487,3 +487,131 @@ Usuario con correo: greenatm873@mailinator.com
 Caso de prueba de Solicitud: representante igual al usuario
 Funcionalidad A Ejecutar: todas
 
+
+Ambiente: qa
+Flujo Registro Terminado - Fecha 29/11/2021 4:55:07 p. m. 
+Usuario con correo: greenatm7120@mailinator.com
+Nit: 972038985
+Caso de prueba de Registro: datos validos
+Funcionalidad A Ejecutar: todas
+
+Ambiente: qa
+Flujo Login Terminado - Fecha 29/11/2021 4:55:13 p. m.
+Usuario con correo: greenatm7120@mailinator.com
+Caso de prueba de Login: datos validos
+Funcionalidad A Ejecutar: todas
+
+Ambiente: qa
+Flujo Solicitud Crédito Terminado - Fecha 29/11/2021 4:56:10 p. m.
+Usuario con correo: greenatm7120@mailinator.com
+Caso de prueba de Solicitud: representante igual al usuario
+Funcionalidad A Ejecutar: todas
+
+
+Ambiente: qa
+Flujo Registro Terminado - Fecha 29/11/2021 5:43:24 p. m. 
+Usuario con correo: greenatm1500@mailinator.com
+Nit: 577568708
+Caso de prueba: datos validos
+Ejecucion Mapa Registro OK
+Funcionalidad A Ejecutar: registro
+
+
+Ambiente: qa
+Flujo Registro Terminado - Fecha 29/11/2021 5:58:26 p. m. 
+Usuario con correo: greenatm3995@mailinator.com
+Nit: 752020855
+Caso de prueba: datos validos
+Ejecucion Mapa Registro OK
+Funcionalidad A Ejecutar: registro
+
+
+Ambiente: qa
+Flujo Registro Terminado - Fecha 29/11/2021 6:01:11 p. m. 
+Usuario con correo: greenatm7998@mailinator.com
+Nit: 936755060
+Caso de prueba: datos validos
+Ejecucion Mapa Registro OK
+Funcionalidad A Ejecutar: registro
+
+
+Ambiente: qa
+Flujo Registro Terminado - Fecha 29/11/2021 6:02:38 p. m. 
+Usuario con correo: greenatm4576@mailinator.com
+Nit: 600276923
+Caso de prueba: datos validos
+Ejecucion Mapa Registro OK
+Funcionalidad A Ejecutar: registro
+
+
+Ambiente: qa
+Flujo Registro Terminado - Fecha 29/11/2021 6:06:06 p. m. 
+Usuario con correo: greenatm7735@mailinator.com
+Nit: 708992390
+Caso de prueba: datos validos
+Ejecucion Mapa Registro OK
+Funcionalidad A Ejecutar: registro
+
+
+Ambiente: qa
+Flujo Registro Terminado - Fecha 29/11/2021 6:06:59 p. m. 
+Usuario con correo: greenatm2248@mailinator.com
+Nit: 469173732
+Caso de prueba: datos validos
+Ejecucion Mapa Registro OK
+Funcionalidad A Ejecutar: registro
+
+
+Ambiente: qa
+Flujo Registro Terminado - Fecha 29/11/2021 6:07:43 p. m. 
+Usuario con correo: greenatm7815@mailinator.com
+Nit: 568891692
+Caso de prueba: datos validos
+Ejecucion Mapa Registro OK
+Funcionalidad A Ejecutar: registro
+
+
+Ambiente: qa
+Flujo Registro Terminado - Fecha 29/11/2021 6:08:28 p. m. 
+Usuario con correo: greenatm3635@mailinator.com
+Nit: 769699692
+Caso de prueba: datos validos
+Ejecucion Mapa Registro OK
+Funcionalidad A Ejecutar: registro
+
+
+Ambiente: qa
+Flujo Registro Terminado - Fecha 29/11/2021 6:09:13 p. m. 
+Usuario con correo: greenatm3423@mailinator.com
+Nit: 926304115
+Caso de prueba: datos validos
+Ejecucion Mapa Registro OK
+Funcionalidad A Ejecutar: registro
+
+
+Ambiente: qa
+Flujo Registro Terminado - Fecha 29/11/2021 6:10:19 p. m. 
+Usuario con correo: greenatm750@mailinator.com
+Nit: 334336408
+Caso de prueba: datos validos
+Ejecucion Mapa Registro OK
+Funcionalidad A Ejecutar: registro
+
+
+Ambiente: qa
+Flujo Registro Terminado - Fecha 29/11/2021 6:11:25 p. m. 
+Usuario con correo: greenatm3714@mailinator.com
+Nit: 522652110
+Caso de prueba: datos validos
+Ejecucion Mapa Registro OK
+Funcionalidad A Ejecutar: registro
+
+
+Ambiente: qa
+Flujo Registro Terminado - Fecha 30/11/2021 10:09:40 a. m. 
+Usuario con correo: greenatm6902@mailinator.com
+Nit: 108976337
+Caso de prueba: datos validos
+Ejecucion Mapa Registro OK
+Funcionalidad A Ejecutar: registro
+
